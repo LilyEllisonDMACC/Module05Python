@@ -21,7 +21,8 @@ while ask_again:
     except:
         print("Not a whole number. Try again.")
         response_list.append(user_answer)
-print(response_list)
+for entry in response_list:
+    print(entry)
 
 """
 Test results:

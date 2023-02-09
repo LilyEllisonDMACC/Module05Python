@@ -1,7 +1,7 @@
 """
 Program: input_while.py
 Author: Lily Ellison
-Last date modified: 02/08/2023
+Last date modified: 02/09/2023
 
 The purpose of this program is to prompt user for input of a number between 1 and 100 until valid input is received.
 All input will be stored in a list that will print once valid input received.
